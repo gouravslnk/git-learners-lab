@@ -1,35 +1,35 @@
-# 👨‍💻 Git Learners Lab
+#  Git Learners Lab
 
-Welcome to **Git Learners Lab** – your gateway to learning Git, GitHub, and open source — the fun way!
+Welcome to **Git Learners Lab** - your gateway to learning Git, GitHub, and open source - the fun way!
 
 This project is specially designed for **absolute beginners** who want to:
 
-- 🧠 Understand Git & GitHub basics  
-- 🔧 Learn to contribute to real-world projects  
-- 🤝 Collaborate with others through Pull Requests  
-- 🚀 Take their first steps into the world of Open Source  
+-  Understand Git & GitHub basics  
+-  Learn to contribute to real-world projects  
+-  Collaborate with others through Pull Requests  
+-  Take their first steps into the world of Open Source  
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 To help **first-time contributors** learn how to use Git & GitHub by making their **first Pull Request (PR)** in a safe, beginner-friendly environment.
 
 ---
 
-## 🌍 What Is Open Source?
+##  What Is Open Source?
 
-Open Source means making software accessible to everyone — where the source code is open for anyone to:
+Open Source means making software accessible to everyone - where the source code is open for anyone to:
 
-- 👀 View  
-- 🛠 Modify  
-- 🧑‍💻 Contribute  
+-  View  
+-  Modify  
+-  Contribute  
 
-It’s how developers build together — and you’re invited!
+It’s how developers build together - and you’re invited!
 
 ---
 
-## 🛠 What You Will Learn
+##  What You Will Learn
 
 In this project, you’ll learn how to:
 
@@ -39,11 +39,11 @@ In this project, you’ll learn how to:
 - Create a new branch  
 - Add a `.txt` file in the right place  
 - Submit a Pull Request (PR)  
-- See it get auto-merged when it passes checks 🎉
+- See it get auto-merged when it passes checks 
 
 ---
 
-## 📝 How Does It Work?
+##  How Does It Work?
 
 Each contributor adds a **`.txt` file inside the `contributors/` folder**.
 
@@ -52,9 +52,9 @@ This file must:
 - Be named after your **GitHub username**
 - Contain:
   - Your **Name** (first line)
-  - Your **Favorite Celebrity or Character** (second line — for fun!)
+  - Your **Favorite Celebrity or Character** (second line - for fun!)
 
-🗂 Example: `contributors/your-github-username.txt`
+ Example: `contributors/your-github-username.txt`
 
 ```txt
 Ada Lovelace
@@ -63,22 +63,22 @@ Iron Man
 
 ---
 
-## 🤖 Automated PR Validation
+##  Automated PR Validation
 
 When you create a Pull Request:
 
-✅ Our GitHub bot checks if:
+Our GitHub bot checks if:
 
 * Only files inside `contributors/` were added or changed
 * Each file has the `.txt` extension
 * No other part of the repo was modified
 
-✅ If your PR follows the rules:
+If your PR follows the rules:
 
 * It gets **automatically merged**
-* 🎉 You’ve contributed to open source!
+* You’ve contributed to open source!
 
-❌ If your PR doesn’t follow the rules:
+If your PR doesn’t follow the rules:
 
 * It will **fail validation**
 * You'll get an error message
@@ -86,9 +86,9 @@ When you create a Pull Request:
 
 ---
 
-## 🚀 How to Contribute
+##  How to Contribute
 
-Just follow the simple steps in 👉 [CONTRIBUTING.md](CONTRIBUTING.md)
+Just follow the simple steps in  [CONTRIBUTING.md](CONTRIBUTING.md)
 
 You’ll learn how to:
 
@@ -97,13 +97,13 @@ You’ll learn how to:
 3. Add your `.txt` file in the right folder
 4. Push your changes
 5. Create a PR
-6. Watch the bot validate and auto-merge it 💫
+6. Watch the bot validate and auto-merge it 
 
 ---
 
-## 💬 Why This Format?
+##  Why This Format?
 
-We've designed this repo to remove formatting confusion and reduce the chance of errors — all you need to do is:
+We've designed this repo to remove formatting confusion and reduce the chance of errors - all you need to do is:
 
 * Add your `.txt` file
 * Use a consistent format
@@ -113,24 +113,15 @@ This way, **beginners stay focused on learning Git & GitHub**, without worrying 
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 All contributors are tracked by their `.txt` file in the `contributors/` folder.
 
-Want to be on the list? Just follow the [guide](CONTRIBUTING.md) and make your PR! Your file will be your official badge ✨
+Want to be on the list? Just follow the [guide](CONTRIBUTING.md) and make your PR! Your file will be your official badge 
 
 ---
 
-## 📚 Resources
-
-* [Chai aur Git Docs](https://docs.chaicode.com/youtube/chai-aur-git/introduction/)
+## Resources
 * [GitHub Docs](https://docs.github.com/)
 * [First Contributions](https://firstcontributions.github.io/)
 
----
-
-## ❤️ Maintained by
-
-**[Gourav Solanki](https://github.com/gouravslnk)**
-
-We're glad you're here — this is your first step into open source 🚀
